@@ -1,0 +1,17 @@
+VisualStudio/Release
+VisualStudio/Debug
+VisualStudio/ipch
+VisualStudio/*.txt
+VisualStudio/*.vsp
+emscripten/*.js
+emscripten/*.mem
+emscripten/*.data
+bin/*.exe
+bin/*.pdb
+bin/*.ilk
+bin/*.txt
+bin/*.map
+bin/gnuplot/*.gpl
+bin/gnuplot/*.txt
+source/*.o
+qtgui/*
